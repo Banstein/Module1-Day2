@@ -45,8 +45,8 @@ To get a local copy up and running follow these simple example steps.
 👤 **Author1**
 
 - GitHub: [@Banstein](https://github.com/Banstein)
-- Twitter: [@Islam_Bahnas](https://twitter.com/islam_bahnas)
-- LinkedIn: [Islam-Bahnas](www.linkedin.com/in/islam-bahnas)
+- Twitter: [@islam_bahnas](https://twitter.com/islam_bahnas)
+- LinkedIn: [islam-bahnas](www.linkedin.com/in/islam-bahnas)
 
 
 ## 🤝 Contributing
