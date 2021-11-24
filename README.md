@@ -9,7 +9,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://banstein.github.io/Micro-Day2/)
 
 
 ## Getting Started
