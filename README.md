@@ -22,17 +22,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+clone repo: https://github.com/Banstein/Micro-Day2.git
 
 ## Authors
 
