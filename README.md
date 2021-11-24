@@ -2,14 +2,14 @@
 
 # Hello Microverse
 
+## Live Demo
+
+[Hello Microverse!](https://banstein.github.io/Micro-Day2/)
+
 ## Built With
 
 - HTML
 - CSS
-
-## Live Demo
-
-[Live Demo Link](https://banstein.github.io/Micro-Day2/)
 
 ## Getting Started
 
